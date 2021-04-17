@@ -1,0 +1,84 @@
+
+body {
+    
+    background-color: #F8F8F8;
+    width:100%;
+    margin: 0 auto;
+    min-width:600px;
+    max-width:4000px
+
+}
+
+#barraUp {
+    width: 1600px ;
+    height: 363px; 
+    border:0px solid #c4c4c4;
+}
+
+#divBusca{
+    background-color:#f8f8f8;
+    border:solid 1px;
+    border-radius:5px;
+    width:300px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:300px;
+  }
+
+  #divBusca{
+    position: absolute;
+    left:1215;
+    top: 10;
+  }
+  
+ 
+  #logo {
+    position: absolute; 
+    left: 580px; 
+    top: 1px;
+}
+
+
+
+#seta {
+    position: absolute;
+    left: 10;
+    top: 10;
+}
+
+#opcao {
+    position: absolute;
+    left:700 ;
+    top: 550;
+    
+    }
+
+#roupa {
+    position: absolute;
+    border:2px solid;
+    left: 60;
+    top: 600;
+}
+
+#roupa1 {
+    position: absolute;
+    border:2px solid;
+    left: 490;
+    top: 600;
+}
+
+#roupa2 { 
+    position: absolute;
+    border:2px solid;
+    left: 1050;
+    top: 600;
+}
+

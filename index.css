@@ -1,0 +1,106 @@
+
+body {
+    
+    background-color: #F8F8F8;
+    width:100%;
+    margin: 0 auto;
+    min-width:600px;
+    max-width:4000px
+}
+
+#barraUp {
+    width: 1600px ;
+    height: 363px; 
+    border:0px solid #c4c4c4;
+}
+
+#divBusca{
+    background-color:#f8f8f8;
+    border:solid 1px;
+    border-radius:5px;
+    width:300px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:300px;
+  }
+
+  #divBusca{
+    position: absolute;
+    left:1215;
+    top: 10;
+  }
+
+  #comprimento {
+    position: absolute;
+    left:800;
+    top:150;
+    font-size: 60;
+    font-style: normal; 
+    font-variant: normal;
+     font-weight: 100; 
+     line-height: 44px;
+     border-color:#aaa;
+     box-sizing:border-box;
+     width:100%; 
+
+    color: white;
+    font-family: rochester;
+}
+
+
+#logo {
+     position: absolute; 
+     left: 63px; 
+     top: 1px;
+}
+
+#face {
+    position: absolute;
+    left: 20px;
+    top: 30;
+}
+
+#insta {
+    position: absolute;
+    left: 20;
+    top: 80;
+}
+
+#wpp {
+    position: absolute;
+    left: 20;
+    top: 130;
+}
+
+#opcao {
+    position: absolute;
+    left:600 ;
+    top: 363;
+}
+
+#opcao1 {
+    position: absolute;
+    left:740 ;
+    top: 363;
+}
+
+#opcao2 {
+    position: absolute;
+    left:910 ;
+    top: 363;
+}
+
+#opcao3 {
+    position: absolute;
+    left:1100 ;
+    top: 363;
+}
+
